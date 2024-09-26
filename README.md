@@ -12,7 +12,7 @@ I am a computer science student from Youngstown State University and aspire to b
 Front-end Development, Responsive Web Design, Object-Oriented Programming, Data Analysis and much more on the way!
 
 ## 🧑🏼‍💻 Coding Languages and Frameworks
-Javascript, React, HTML/CSS, C++, C#, Python, Express.JS, Next.JS
+Javascript, HTML/CSS, C++, C#, Python, Django, SQL, Java
 
 
 
