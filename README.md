@@ -7,4 +7,4 @@ I am a computer science student from Youngstown State University and aspire to b
 Full-Stack Development, Web Development, Application Development, UI/UX Design, Object-Oriented Programming
 
 ## 🧑🏼‍💻 Coding Languages and Frameworks
-C#, .NET, Python, JavaScript, TypeScript Angular, SQL
+C#, .NET, Python, JavaScript, TypeScript, Angular, SQL
